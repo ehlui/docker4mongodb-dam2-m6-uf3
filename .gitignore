@@ -1,0 +1,5 @@
+# Not important dirs
+/venv
+.idea
+# Python binaries
+/__pycache__

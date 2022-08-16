@@ -1,0 +1,1 @@
+mongoimport -d zips -c zips db/zips/zips.json --drop --stopOnError --maintainInsertionOrder

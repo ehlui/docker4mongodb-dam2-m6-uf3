@@ -1,0 +1,1 @@
+mongoimport -d contactes -c contactes db/contactes/contactes.json --drop --stopOnError --maintainInsertionOrder

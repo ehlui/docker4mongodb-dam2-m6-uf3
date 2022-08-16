@@ -1,0 +1,1 @@
+mongoimport -d cityInspec -c cityInspec db/cityInspec/city_inspections.json --drop --stopOnError --maintainInsertionOrder

@@ -1,0 +1,1 @@
+mongoimport -d companies -c companies db/companies/companies2.json --drop --stopOnError --maintainInsertionOrder

@@ -1,0 +1,1 @@
+mongoimport -d digg -c stories db/digg/stories.json --drop --stopOnError --maintainInsertionOrder

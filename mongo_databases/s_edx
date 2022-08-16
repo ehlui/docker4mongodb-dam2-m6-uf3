@@ -1,0 +1,3 @@
+mongoimport -d edx -c bios db/edx/bios.json --drop --stopOnError --maintainInsertionOrder
+mongoimport -d edx -c books db/edx/books.json --drop --stopOnError --maintainInsertionOrder
+mongoimport -d edx -c students db/edx/students.csv --drop --stopOnError --maintainInsertionOrder --type csv --headerline

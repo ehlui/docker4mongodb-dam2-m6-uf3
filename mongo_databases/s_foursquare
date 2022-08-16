@@ -1,0 +1,1 @@
+mongoimport -d foursquare -c restaurants db/foursquare/restaurants.json --drop --stopOnError --maintainInsertionOrder

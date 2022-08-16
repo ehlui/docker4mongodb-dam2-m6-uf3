@@ -1,0 +1,1 @@
+mongoimport -d twitter -c tweets db/twitter/tweets.json --drop --stopOnError --maintainInsertionOrder

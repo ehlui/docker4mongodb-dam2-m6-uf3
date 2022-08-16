@@ -1,0 +1,1 @@
+mongorestore --gzip --db=people db/people/people.bson.gz 

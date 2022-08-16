@@ -1,0 +1,3 @@
+mongoimport -d imdb -c movies db/imdb/movies.json --drop --stopOnError --jsonArray
+mongoimport -d imdb -c oscars db/imdb/oscars.json --drop --stopOnError --jsonArray
+mongoimport -d imdb -c people db/imdb/people.json --drop --stopOnError --jsonArray

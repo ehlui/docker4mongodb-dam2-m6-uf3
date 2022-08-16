@@ -1,0 +1,67 @@
+{"nom":"Pere","cognoms":"Pi Tort","telefons":[{"telefon":"931234567","tipus":"fix"},{"telefon":"600234567","tipus":"mòbil"},{"telefon":"600200200","tipus":"mòbil feina"}],"emails":[{"email":"perepi@gmail.com"},{"email":"perepi@knorr.es","tipus":"feina"}]}
+{"nom":"Jaume","cognoms":"Roure Vell","telefons":[{"telefon":"600333333","tipus":"mòbil"},{"telefon":"972003003","tipus":"fix"}],"emails":[{"email":"jaume.roure@hotmail.com"},{"email":"j.roure@instalroure.com","tipus":"feina"}]}
+{"nom":"Carles","cognoms":"Alzina Surera","telefons":[{"telefon":"600040040","tipus":"mòbil"},{"telefon":"600044044","tipus":"dona"},{"telefon":"934040404","tipus":"fix"},{"telefon":"973000004","tipus":"pares"}],"emails":[{"email":"carles-alzina@gmail.com"},{"email":"carlez-alzina@uab.cat","tipus":"feina"},{"email":"dralzina@cdl.cat","tipus":"assoc"}]}
+{"nom":"Mireia","cognoms":"Fuster Julià"}
+{"nom":"Lluís","cognoms":"Pollancre Verd"}
+{"nom":"Rosa","cognoms":"Ferrer Claramunt"}
+{"nom":"Robert","cognoms":"Puig Antic","telefons":[{"telefon":"939999999","tipus":"fictici"}]}
+{"nom":"Luís","cognoms":"Gonçalves","telefons":[{"telefon":"+55 (12) 3923-5555","tipus":"tel"},{"telefon":"+55 (12) 3923-5566","tipus":"fax"}],"emails":[{"email":"luisg@embraer.com.br","tipus":"feina"}]}
+{"nom":"Leonie","cognoms":"Köhler","telefons":[{"telefon":"+49 0711 2842222","tipus":"tel"}],"emails":[{"email":"leonekohler@surfeu.de","tipus":"casa"}]}
+{"nom":"François","cognoms":"Tremblay","telefons":[{"telefon":"+1 (514) 721-4711","tipus":"tel"}],"emails":[{"email":"ftremblay@gmail.com","tipus":"casa"}]}
+{"nom":"Bjørn","cognoms":"Hansen","telefons":[{"telefon":"+47 22 44 22 22","tipus":"tel"}],"emails":[{"email":"bjorn.hansen@yahoo.no","tipus":"casa"}]}
+{"nom":"František","cognoms":"Wichterlová","telefons":[{"telefon":"+420 2 4172 5555","tipus":"tel"},{"telefon":"+420 2 4172 5555","tipus":"fax"}],"emails":[{"email":"frantisekw@jetbrains.com","tipus":"feina"}]}
+{"nom":"Helena","cognoms":"Holý","telefons":[{"telefon":"+420 2 4177 0449","tipus":"tel"}],"emails":[{"email":"hholy@gmail.com","tipus":"casa"}]}
+{"nom":"Astrid","cognoms":"Gruber","telefons":[{"telefon":"+43 01 5134505","tipus":"tel"}],"emails":[{"email":"astrid.gruber@apple.at","tipus":"casa"}]}
+{"nom":"Daan","cognoms":"Peeters","telefons":[{"telefon":"+32 02 219 03 03","tipus":"tel"}],"emails":[{"email":"daan_peeters@apple.be","tipus":"casa"}]}
+{"nom":"Kara","cognoms":"Nielsen","telefons":[{"telefon":"+453 3331 9991","tipus":"tel"}],"emails":[{"email":"kara.nielsen@jubii.dk","tipus":"casa"}]}
+{"nom":"Eduardo","cognoms":"Martins","telefons":[{"telefon":"+55 (11) 3033-5446","tipus":"tel"},{"telefon":"+55 (11) 3033-4564","tipus":"fax"}],"emails":[{"email":"eduardo@woodstock.com.br","tipus":"feina"}]}
+{"nom":"Alexandre","cognoms":"Rocha","telefons":[{"telefon":"+55 (11) 3055-3278","tipus":"tel"},{"telefon":"+55 (11) 3055-8131","tipus":"fax"}],"emails":[{"email":"alero@uol.com.br","tipus":"feina"}]}
+{"nom":"Roberto","cognoms":"Almeida","telefons":[{"telefon":"+55 (21) 2271-7000","tipus":"tel"},{"telefon":"+55 (21) 2271-7070","tipus":"fax"}],"emails":[{"email":"roberto.almeida@riotur.gov.br","tipus":"feina"}]}
+{"nom":"Fernanda","cognoms":"Ramos","telefons":[{"telefon":"+55 (61) 3363-5547","tipus":"tel"},{"telefon":"+55 (61) 3363-7855","tipus":"fax"}],"emails":[{"email":"fernadaramos4@uol.com.br","tipus":"casa"}]}
+{"nom":"Mark","cognoms":"Philips","telefons":[{"telefon":"+1 (780) 434-4554","tipus":"tel"},{"telefon":"+1 (780) 434-5565","tipus":"fax"}],"emails":[{"email":"mphilips12@shaw.ca","tipus":"feina"}]}
+{"nom":"Jennifer","cognoms":"Peterson","telefons":[{"telefon":"+1 (604) 688-2255","tipus":"tel"},{"telefon":"+1 (604) 688-8756","tipus":"fax"}],"emails":[{"email":"jenniferp@rogers.ca","tipus":"feina"}]}
+{"nom":"Frank","cognoms":"Harris","telefons":[{"telefon":"+1 (650) 253-0000","tipus":"tel"},{"telefon":"+1 (650) 253-0000","tipus":"fax"}],"emails":[{"email":"fharris@google.com","tipus":"feina"}]}
+{"nom":"Jack","cognoms":"Smith","telefons":[{"telefon":"+1 (425) 882-8080","tipus":"tel"},{"telefon":"+1 (425) 882-8081","tipus":"fax"}],"emails":[{"email":"jacksmith@microsoft.com","tipus":"feina"}]}
+{"nom":"Michelle","cognoms":"Brooks","telefons":[{"telefon":"+1 (212) 221-3546","tipus":"tel"},{"telefon":"+1 (212) 221-4679","tipus":"fax"}],"emails":[{"email":"michelleb@aol.com","tipus":"casa"}]}
+{"nom":"Tim","cognoms":"Goyer","telefons":[{"telefon":"+1 (408) 996-1010","tipus":"tel"},{"telefon":"+1 (408) 996-1011","tipus":"fax"}],"emails":[{"email":"tgoyer@apple.com","tipus":"feina"}]}
+{"nom":"Dan","cognoms":"Miller","telefons":[{"telefon":"+1 (650) 644-3358","tipus":"tel"}],"emails":[{"email":"dmiller@comcast.com","tipus":"casa"}]}
+{"nom":"Kathy","cognoms":"Chase","telefons":[{"telefon":"+1 (775) 223-7665","tipus":"tel"}],"emails":[{"email":"kachase@hotmail.com","tipus":"casa"}]}
+{"nom":"Heather","cognoms":"Leacock","telefons":[{"telefon":"+1 (407) 999-7788","tipus":"tel"}],"emails":[{"email":"hleacock@gmail.com","tipus":"casa"}]}
+{"nom":"John","cognoms":"Gordon","telefons":[{"telefon":"+1 (617) 522-1333","tipus":"tel"}],"emails":[{"email":"johngordon22@yahoo.com","tipus":"casa"}]}
+{"nom":"Frank","cognoms":"Ralston","telefons":[{"telefon":"+1 (312) 332-3232","tipus":"tel"}],"emails":[{"email":"fralston@gmail.com","tipus":"casa"}]}
+{"nom":"Victor","cognoms":"Stevens","telefons":[{"telefon":"+1 (608) 257-0597","tipus":"tel"}],"emails":[{"email":"vstevens@yahoo.com","tipus":"casa"}]}
+{"nom":"Richard","cognoms":"Cunningham","telefons":[{"telefon":"+1 (817) 924-7272","tipus":"tel"}],"emails":[{"email":"ricunningham@hotmail.com","tipus":"casa"}]}
+{"nom":"Patrick","cognoms":"Gray","telefons":[{"telefon":"+1 (520) 622-4200","tipus":"tel"}],"emails":[{"email":"patrick.gray@aol.com","tipus":"casa"}]}
+{"nom":"Julia","cognoms":"Barnett","telefons":[{"telefon":"+1 (801) 531-7272","tipus":"tel"}],"emails":[{"email":"jubarnett@gmail.com","tipus":"casa"}]}
+{"nom":"Robert","cognoms":"Brown","telefons":[{"telefon":"+1 (416) 363-8888","tipus":"tel"}],"emails":[{"email":"robbrown@shaw.ca","tipus":"casa"}]}
+{"nom":"Edward","cognoms":"Francis","telefons":[{"telefon":"+1 (613) 234-3322","tipus":"tel"}],"emails":[{"email":"edfrancis@yachoo.ca","tipus":"casa"}]}
+{"nom":"Martha","cognoms":"Silk","telefons":[{"telefon":"+1 (902) 450-0450","tipus":"tel"}],"emails":[{"email":"marthasilk@gmail.com","tipus":"casa"}]}
+{"nom":"Aaron","cognoms":"Mitchell","telefons":[{"telefon":"+1 (204) 452-6452","tipus":"tel"}],"emails":[{"email":"aaronmitchell@yahoo.ca","tipus":"casa"}]}
+{"nom":"Ellie","cognoms":"Sullivan","telefons":[{"telefon":"+1 (867) 920-2233","tipus":"tel"}],"emails":[{"email":"ellie.sullivan@shaw.ca","tipus":"casa"}]}
+{"nom":"João","cognoms":"Fernandes","telefons":[{"telefon":"+351 (213) 466-111","tipus":"tel"}],"emails":[{"email":"jfernandes@yahoo.pt","tipus":"casa"}]}
+{"nom":"Madalena","cognoms":"Sampaio","telefons":[{"telefon":"+351 (225) 022-448","tipus":"tel"}],"emails":[{"email":"masampaio@sapo.pt","tipus":"casa"}]}
+{"nom":"Hannah","cognoms":"Schneider","telefons":[{"telefon":"+49 030 26550280","tipus":"tel"}],"emails":[{"email":"hannah.schneider@yahoo.de","tipus":"casa"}]}
+{"nom":"Fynn","cognoms":"Zimmermann","telefons":[{"telefon":"+49 069 40598889","tipus":"tel"}],"emails":[{"email":"fzimmermann@yahoo.de","tipus":"casa"}]}
+{"nom":"Niklas","cognoms":"Schröder","telefons":[{"telefon":"+49 030 2141444","tipus":"tel"}],"emails":[{"email":"nschroder@surfeu.de","tipus":"casa"}]}
+{"nom":"Camille","cognoms":"Bernard","telefons":[{"telefon":"+33 01 49 70 65 65","tipus":"tel"}],"emails":[{"email":"camille.bernard@yahoo.fr","tipus":"casa"}]}
+{"nom":"Dominique","cognoms":"Lefebvre","telefons":[{"telefon":"+33 01 47 42 71 71","tipus":"tel"}],"emails":[{"email":"dominiquelefebvre@gmail.com","tipus":"casa"}]}
+{"nom":"Marc","cognoms":"Dubois","telefons":[{"telefon":"+33 04 78 30 30 30","tipus":"tel"}],"emails":[{"email":"marc.dubois@hotmail.com","tipus":"casa"}]}
+{"nom":"Wyatt","cognoms":"Girard","telefons":[{"telefon":"+33 05 56 96 96 96","tipus":"tel"}],"emails":[{"email":"wyatt.girard@yahoo.fr","tipus":"casa"}]}
+{"nom":"Isabelle","cognoms":"Mercier","telefons":[{"telefon":"+33 03 80 73 66 99","tipus":"tel"}],"emails":[{"email":"isabelle_mercier@apple.fr","tipus":"casa"}]}
+{"nom":"Terhi","cognoms":"Hämäläinen","telefons":[{"telefon":"+358 09 870 2000","tipus":"tel"}],"emails":[{"email":"terhi.hamalainen@apple.fi","tipus":"casa"}]}
+{"nom":"Ladislav","cognoms":"Kovács","emails":[{"email":"ladislav_kovacs@apple.hu","tipus":"casa"}]}
+{"nom":"Hugh","cognoms":"O'Reilly","telefons":[{"telefon":"+353 01 6792424","tipus":"tel"}],"emails":[{"email":"hughoreilly@apple.ie","tipus":"casa"}]}
+{"nom":"Lucas","cognoms":"Mancini","telefons":[{"telefon":"+39 06 39733434","tipus":"tel"}],"emails":[{"email":"lucas.mancini@yahoo.it","tipus":"casa"}]}
+{"nom":"Johannes","cognoms":"Van der Berg","telefons":[{"telefon":"+31 020 6223130","tipus":"tel"}],"emails":[{"email":"johavanderberg@yahoo.nl","tipus":"casa"}]}
+{"nom":"Stanislaw","cognoms":"Wójcik","telefons":[{"telefon":"+48 22 828 37 39","tipus":"tel"}],"emails":[{"email":"stanislaw.wójcik@wp.pl","tipus":"casa"}]}
+{"nom":"Enrique","cognoms":"Muñoz","telefons":[{"telefon":"+34 914 454 454","tipus":"tel"}],"emails":[{"email":"enrique_munoz@yahoo.es","tipus":"casa"}]}
+{"nom":"Joakim","cognoms":"Johansson","telefons":[{"telefon":"+46 08-651 52 52","tipus":"tel"}],"emails":[{"email":"joakim.johansson@yahoo.se","tipus":"casa"}]}
+{"nom":"Emma","cognoms":"Jones","telefons":[{"telefon":"+44 020 7707 0707","tipus":"tel"}],"emails":[{"email":"emma_jones@hotmail.com","tipus":"casa"}]}
+{"nom":"Phil","cognoms":"Hughes","telefons":[{"telefon":"+44 020 7976 5722","tipus":"tel"}],"emails":[{"email":"phil.hughes@gmail.com","tipus":"casa"}]}
+{"nom":"Steve","cognoms":"Murray","telefons":[{"telefon":"+44 0131 315 3300","tipus":"tel"}],"emails":[{"email":"steve.murray@yahoo.uk","tipus":"casa"}]}
+{"nom":"Mark","cognoms":"Taylor","telefons":[{"telefon":"+61 (02) 9332 3633","tipus":"tel"}],"emails":[{"email":"mark.taylor@yahoo.au","tipus":"casa"}]}
+{"nom":"Diego","cognoms":"Gutiérrez","telefons":[{"telefon":"+54 (0)11 4311 4333","tipus":"tel"}],"emails":[{"email":"diego.gutierrez@yahoo.ar","tipus":"casa"}]}
+{"nom":"Luis","cognoms":"Rojas","telefons":[{"telefon":"+56 (0)2 635 4444","tipus":"tel"}],"emails":[{"email":"luisrojas@yahoo.cl","tipus":"casa"}]}
+{"nom":"Manoj","cognoms":"Pareek","telefons":[{"telefon":"+91 0124 39883988","tipus":"tel"}],"emails":[{"email":"manoj.pareek@rediff.com","tipus":"casa"}]}
+{"nom":"Puja","cognoms":"Srivastava","telefons":[{"telefon":"+91 080 22289999","tipus":"tel"}]}
+{"nom":"Pere","cognoms":"Pi Tort","telefons":[{"telefon":"931234567","tipus":"fix"},{"telefon":"600200200","tipus":"mòbil feina"}],"emails":[{"email":"perepi2@gmail.com"},{"email":"perepi@knorr.es","tipus":"feina"}]}

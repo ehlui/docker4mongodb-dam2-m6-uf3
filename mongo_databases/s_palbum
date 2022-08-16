@@ -1,0 +1,3 @@
+mongoimport -d palbum -c albums db/palbum/albums.json --drop --stopOnError --maintainInsertionOrder
+
+mongoimport -d palbum -c images db/palbum/images.json --drop --stopOnError --maintainInsertionOrder

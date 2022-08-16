@@ -1,0 +1,3 @@
+mongoimport -d geo -c cities db/geo/cities.json --drop --stopOnError --maintainInsertionOrder
+
+mongoimport -d geo -c countries db/geo/countries.json --drop --stopOnError --jsonArray
